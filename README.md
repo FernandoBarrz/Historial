@@ -1,4 +1,4 @@
-# Time Line Movile First
+# Time Line Mobile First
 > A simple yet useful movil-first website for listing personal projects chronologically
 It is useful for:
 * Keep track of temporal projects
