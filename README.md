@@ -5,3 +5,4 @@ It is useful for:
 * Establish a linear visualisation of the desired content
 
 It is hosted on: 
+https://fernandobarrz.github.io/Historial/
